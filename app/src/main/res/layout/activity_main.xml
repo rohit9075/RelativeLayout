@@ -60,4 +60,18 @@
         android:text="Mobile" />
 
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edittext3"
+        android:layout_marginBottom="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:paddingStart="10dp"
+        android:text="Show Content" />
+
+
 </RelativeLayout>
